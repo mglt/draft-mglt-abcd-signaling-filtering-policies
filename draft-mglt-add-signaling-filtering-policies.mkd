@@ -1,13 +1,13 @@
 ---
-title: Signaling filtering policies by the resolver
+title: Signaling resolver's filtering policies
 abbrev: filtering policies by the resolver
-docname: draft-mglt-abcd-signaling-filtering-policies
+docname: draft-mglt-add-signaling-filtering-policies-00
 
 
-area: operational
-wg: dnsop
+area: ART
+wg: add
 kw: Internet-Draft
-cat: info
+cat: std
 
 coding: us-ascii
 pi:
